@@ -1,0 +1,37 @@
+GIT Commands : 
+
+Git init
+git add <file>
+git Status
+git commit
+
+git push  --> for remote repo
+git pull  
+git clone --> copy remote repo to local folder
+
+
+git config --global user.name  '___'
+git config --global user.email '___'
+
+git add index.html  ---> for add in local repo
+git status --> check that status
+git rm --cached index.html  --> remove that file from repo
+git status
+git add *.html  --> we can add any html of this folder
+git add .  --> for all files (we generaly use)
+git commit or git commit -m "---"
+
+git status --> nothing to commit
+
+git branch <branch name>
+git checkout <branch name>
+git merge  branch '__branch name_to_current_'
+
+
+
+git remote ad origin https://----git repo add---
+git push -u origin master
+
+
+
+
