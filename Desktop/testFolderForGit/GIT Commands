@@ -30,7 +30,7 @@ git merge  branch '__branch name_to_current_'
 
 
 git remote ad origin https://----git repo add---
-git push -u origin master
+git push -u origin master  // push into remote repo
 
 
 
